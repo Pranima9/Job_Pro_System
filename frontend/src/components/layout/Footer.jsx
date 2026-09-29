@@ -39,7 +39,7 @@ export const Footer = () => {
                 <Briefcase size={16} />
               </div>
               <span style={{ fontWeight: 800, fontSize: '1.125rem', color: 'var(--color-primary-dark)' }}>
-                Lunar<span style={{ color: 'var(--color-brand)' }}>Jobs</span>
+                Job<span style={{ color: 'var(--color-brand)' }}>Pro</span>
               </span>
             </div>
             <p style={{ fontSize: '0.875rem', color: 'var(--color-text-muted)', lineHeight: 1.6, maxWidth: '280px' }}>
@@ -97,7 +97,7 @@ export const Footer = () => {
             color: 'var(--color-text-subtle)',
           }}
         >
-          <span>&copy; {new Date().getFullYear()} LunarJobs Portal. All rights reserved.</span>
+          <span>&copy; {new Date().getFullYear()} JobPro Portal. All rights reserved.</span>
           <span>Enterprise SaaS Frontend Architecture</span>
         </div>
       </div>

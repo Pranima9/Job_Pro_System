@@ -1,4 +1,4 @@
-# Lunar Jobs — Frontend
+# JobPro — Frontend
 
 A production-quality React frontend for the Job & Internship Portal, built with Vite and integrated with the existing Node.js/Express/Prisma backend.
 
