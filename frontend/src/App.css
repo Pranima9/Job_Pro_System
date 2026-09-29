@@ -1,0 +1,34 @@
+/* App-level styles - most styles are in index.css */
+
+/* Job Details Layout */
+.job-details-layout {
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .job-details-layout {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Company Applications Layout */
+.company-apps-layout {
+  align-items: start;
+}
+
+@media (max-width: 860px) {
+  .company-apps-layout {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Profile Layout */
+.profile-layout {
+  align-items: start;
+}
+
+@media (max-width: 860px) {
+  .profile-layout {
+    grid-template-columns: 1fr !important;
+  }
+}
