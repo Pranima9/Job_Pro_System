@@ -103,11 +103,12 @@ export const Home = () => {
                   width: '100%',
                   padding: '0.875rem 1rem 0.875rem 2.75rem',
                   borderRadius: 'var(--radius-md)',
-                  border: '1px solid #334155',
-                  backgroundColor: '#1e293b',
-                  color: '#f8fafc',
+                  border: '1px solid rgba(255,255,255,0.2)',
+                  backgroundColor: 'rgba(255,255,255,0.12)',
+                  color: '#ffffff',
                   fontSize: '0.9375rem',
                   outline: 'none',
+                  boxShadow: 'inset 0 1px 0 rgba(255,255,255,0.06)',
                 }}
               />
             </div>
@@ -122,11 +123,12 @@ export const Home = () => {
                   width: '100%',
                   padding: '0.875rem 1rem 0.875rem 2.75rem',
                   borderRadius: 'var(--radius-md)',
-                  border: '1px solid #334155',
-                  backgroundColor: '#1e293b',
-                  color: '#f8fafc',
+                  border: '1px solid rgba(255,255,255,0.2)',
+                  backgroundColor: 'rgba(255,255,255,0.12)',
+                  color: '#ffffff',
                   fontSize: '0.9375rem',
                   outline: 'none',
+                  boxShadow: 'inset 0 1px 0 rgba(255,255,255,0.06)',
                 }}
               />
             </div>
