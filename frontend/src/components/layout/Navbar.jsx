@@ -73,7 +73,7 @@ export const Navbar = () => {
           >
             <Briefcase size={18} />
           </div>
-          <span>Lunar<span style={{ color: 'var(--color-brand)' }}>Jobs</span></span>
+          <span>Job<span style={{ color: 'var(--color-brand)' }}>Pro</span></span>
         </Link>
 
         {/* Desktop Navigation */}

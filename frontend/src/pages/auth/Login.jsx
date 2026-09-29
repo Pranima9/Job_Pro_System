@@ -72,7 +72,7 @@ export const Login = () => {
               <Briefcase size={20} />
             </div>
             <span style={{ fontWeight: 800, fontSize: '1.375rem', color: 'var(--color-primary-dark)' }}>
-              Lunar<span style={{ color: 'var(--color-brand)' }}>Jobs</span>
+              Job<span style={{ color: 'var(--color-brand)' }}>Pro</span>
             </span>
           </Link>
           <h1 style={{ fontSize: '1.5rem', fontWeight: 700, color: 'var(--color-primary-dark)' }}>Welcome Back</h1>
